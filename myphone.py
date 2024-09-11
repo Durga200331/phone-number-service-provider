@@ -1,1 +1,1 @@
-number = "+919014070363"
+number = "#enter the phone number"
